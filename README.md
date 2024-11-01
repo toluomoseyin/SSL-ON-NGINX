@@ -1,4 +1,4 @@
-# README: Setting Up SSL for Nginx on Ubuntu
+# Setting Up SSL for Nginx on Ubuntu
 
 This guide will walk you through the process of obtaining an SSL certificate from ZeroSSL, installing it on your Ubuntu server, configuring Nginx to use the certificate for your domain, and setting up a basic HTML page.
 
